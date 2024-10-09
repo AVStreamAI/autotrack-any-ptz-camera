@@ -4,6 +4,7 @@ How to make ANY PTZ VISCA carema to autotrack human speaker on boring conference
 
 This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 
+0.5 Install ffmpeg
 1. Find your camera IP address
 2. Find the syntax of VISCA commands in your camera's manual
 3. Start RTSP feed from your camera
