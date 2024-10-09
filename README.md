@@ -13,7 +13,7 @@ This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 
 Video:
 
-https://youtu.be/fAk5633DVXw
+[https://youtu.be/fAk5633DVXw ](https://www.youtube.com/watch?v=fAk5633DVXw)
 
 ========================= LICENSE INFORMATION =========================
 
