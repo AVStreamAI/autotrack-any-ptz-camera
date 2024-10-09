@@ -12,7 +12,7 @@ This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 6. Enjoy
 
 Video:
-<video src='https://www.youtube.com/watch?v=fAk5633DVXw' width=180/>
+<video src='https://www.youtube.com/watch?v=fAk5633DVXw'>
 
 
 ========================= LICENSE INFORMATION =========================
