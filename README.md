@@ -1,4 +1,5 @@
-# autotrack-any-ptz-camera
+AUTOTRACKING for any PTZ VISCA camera
+
 How to make ANY PTZ VISCA carema to autotrack human speaker on boring conferences
 
 This script works with any (i hope) PTZ cameras with VISCA protocol inside.
