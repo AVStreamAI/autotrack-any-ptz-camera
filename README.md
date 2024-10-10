@@ -1,4 +1,4 @@
-AUTOTRACKING for any PTZ VISCA camera
+# Autotracking for any PTZ VISCA camera
 
 How to make ANY PTZ VISCA camera to autotrack human speaker on boring conferences
 
@@ -16,7 +16,7 @@ Video:
 
 https://www.youtube.com/watch?v=fAk5633DVXw
 
-========================= LICENSE INFORMATION =========================
+# License information
 
 This code is developed by Sergey Korneyev from AVStream (https://avstream.ru).
 It is distributed under an open-source license, allowing for free use, modification, 
