@@ -12,9 +12,8 @@ This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 6. Enjoy
 7. Also please install ffmpeg
 
-Video:
-
-https://www.youtube.com/watch?v=fAk5633DVXw
+[Video EN](https://www.youtube.com/watch?v=fAk5633DVXw)  
+[Video RU](https://www.youtube.com/watch?v=2ipNAoIrl8I)
 
 # License information
 
