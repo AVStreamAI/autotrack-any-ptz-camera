@@ -35,6 +35,6 @@ FFmpeg's and YOLOv8's licenses, as well as the open-source license provided by S
 Redistribution of this script with modifications should maintain these notices to respect the 
 original work and licenses of the authors.
 
-Author: Sergey Korneyev, AVStream
-Website: https://avstream.ru
+Author: Sergey Korneyev, AVStream  
+Website: https://avstream.ru  
 Telegram: https://t.me/Kvanterbreher
