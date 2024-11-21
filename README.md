@@ -1,6 +1,6 @@
-AUTOTRACKING for any PTZ VISCA camera
+# Autotracking for any PTZ VISCA camera
 
-How to make ANY PTZ VISCA carema to autotrack human speaker on boring conferences
+How to make ANY PTZ VISCA camera to autotrack human speaker on boring conferences
 
 This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 
@@ -12,11 +12,10 @@ This script works with any (i hope) PTZ cameras with VISCA protocol inside.
 6. Enjoy
 7. Also please install ffmpeg
 
-Video:
+[Video EN](https://www.youtube.com/watch?v=fAk5633DVXw)  
+[Video RU](https://www.youtube.com/watch?v=2ipNAoIrl8I)
 
-https://www.youtube.com/watch?v=fAk5633DVXw
-
-========================= LICENSE INFORMATION =========================
+# License information
 
 This code is developed by Sergey Korneyev from AVStream (https://avstream.ru).
 It is distributed under an open-source license, allowing for free use, modification, 
@@ -36,6 +35,6 @@ FFmpeg's and YOLOv8's licenses, as well as the open-source license provided by S
 Redistribution of this script with modifications should maintain these notices to respect the 
 original work and licenses of the authors.
 
-Author: Sergey Korneyev, AVStream
-Website: https://avstream.ru
+Author: Sergey Korneyev, AVStream  
+Website: https://avstream.ru  
 Telegram: https://t.me/Kvanterbreher
